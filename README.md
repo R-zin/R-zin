@@ -8,7 +8,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-razin121-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/razin121/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razin_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razin-m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razin_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/razin-m](https://www.linkedin.com/in/razin-mahmood/))
 
 </div>
 
@@ -37,7 +37,7 @@ CS undergrad at **IIIT Kottayam** (Batch 2024–2028 · CGPA **8.7 / 10**) build
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,pytorch,git,linux,vscode&perline=7)](https://skillicons.dev)
 
-**Also worked with:** Spring Boot · Spring Cloud · LangChain · LangGraph · MongoDB · NS-3 · SUMO · Pydantic v2 · asyncpg · GitHub Actions
+**Also worked with:**  LangChain · LangGraph · MongoDB · NS-3 · SUMO · Pydantic v2 · asyncpg · GitHub Actions
 
 </div>
 
