@@ -8,7 +8,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-razin121-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/razin121/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razin_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/razin-m](https://www.linkedin.com/in/razin-mahmood/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Razin_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razin-mahmood/))
 
 </div>
 
