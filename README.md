@@ -96,9 +96,8 @@ Scans RSS feeds from news outlets and surfaces infrastructure issues in real tim
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=R-zin&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-zin&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" />
+
+<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=R-zin&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" />
 
 <br/>
 
